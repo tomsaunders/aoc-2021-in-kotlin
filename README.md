@@ -2,14 +2,11 @@
 
 Welcome to the Advent of Code[^aoc] Kotlin project created by [tomsaunders][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
 
-In this repository, tomsaunders is about to provide solutions for the puzzles using [Kotlin][kotlin] language.
+I'm going to use some personal development time at work to practice [Kotlin][kotlin] by doing some Advent of Code puzzles. And maybe win a random prize.
 
-If you stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
+## Contact
 
-- [Kotlin docs][docs]
-- [Kotlin Slack][slack]
-- Template [issue tracker][issues]
-
+I am on twitter as [@tomsaunders][twitter] and that's the account I use for AoC login. 
 
 [^aoc]:
     [Advent of Code][aoc] – an annual event in December since 2015.
@@ -17,9 +14,7 @@ If you stuck with Kotlin-specific questions or anything related to this template
     A set of Christmas-oriented challenges provide any input you have to use to answer using the language of your choice.
 
 [aoc]: https://adventofcode.com
-[docs]: https://kotlinlang.org/docs/home.html
 [github]: https://github.com/tomsaunders
-[issues]: https://github.com/kotlin-hands-on/advent-of-code-kotlin-template/issues
 [kotlin]: https://kotlinlang.org
-[slack]: https://surveys.jetbrains.com/s3/kotlin-slack-sign-up
 [template]: https://github.com/kotlin-hands-on/advent-of-code-kotlin-template
+[twitter]: https://twitter.com/tomsaunders
